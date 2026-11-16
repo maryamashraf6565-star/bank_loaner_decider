@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maryamashraf6565-star/bank_loaner_decider/blob/main/bank_loaning_decider.ipynb)
+
 # Bank Loan Approval Classifier
 
 A single-neuron (logistic regression) classifier implemented **from scratch in NumPy** — sigmoid, forward pass, and gradient descent all hand-written, no Scikit-learn model used.
